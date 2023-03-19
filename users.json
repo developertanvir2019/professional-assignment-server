@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "John Smith",
+        "contact": "+1 (555) 123-4567",
+        "address": "123 Main St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Emily Johnson",
+        "contact": "+1 (555) 555-1212",
+        "address": "456 Elm St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "id": 3,
+        "gender": "non-binary",
+        "name": "Alex Kim",
+        "contact": "+1 (555) 555-5555",
+        "address": "789 Oak St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "male",
+        "name": "Robert Martinez",
+        "contact": "+1 (555) 444-1234",
+        "address": "321 Pine St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "id": 5,
+        "gender": "female",
+        "name": "Maria Rodriguez",
+        "contact": "+1 (555) 777-8888",
+        "address": "567 Maple St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "id": 6,
+        "gender": "male",
+        "name": "William Chen",
+        "contact": "+1 (555) 999-1234",
+        "address": "987 Birch St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+        "id": 7,
+        "gender": "female",
+        "name": "Lila Patel",
+        "contact": "+1 (555) 555-7777",
+        "address": "432 Cedar St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+        "id": 8,
+        "gender": "non-binary",
+        "name": "Avery Williams",
+        "contact": "+1 (555) 123-7890",
+        "address": "654 Oak St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/lego/8.jpg"
+    },
+    {
+        "id": 9,
+        "gender": "male",
+        "name": "Andrew Lee",
+        "contact": "+1 (555) 555-2222",
+        "address": "876 Elm St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+        "id": 10,
+        "gender": "female",
+        "name": "Sophia Nguyen",
+        "contact": "+1 (555) 777-9999",
+        "address": "543 Oak St, Anytown USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/10.jpg"
+    }
+]
